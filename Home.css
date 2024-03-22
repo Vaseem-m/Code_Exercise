@@ -1,0 +1,33 @@
+.centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust height as needed */
+    text-align: center;
+  }
+  
+  .question-container {
+    width: 700px;
+    border-radius: 20px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 2px solid black;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    display: block;
+    width: 50%;
+    margin: 0 auto; /* Set left and right margins to auto */
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
